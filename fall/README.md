@@ -18,7 +18,7 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 ### Comp Recreations
 
-- [Login Form Comp](comp-recreation-login.md)
+- [Login Form Comp](comp-recreation-login.md) .          https://codepen.io/Karlfunhouse/pen/QWWRqLw
 - [Greeting App Comp](comp-recreation-greeting-app.md) . https://codepen.io/Karlfunhouse/pen/XWWLmMx?editors=1100
 - [Friends Comp](comp-recreation-friends.md)
 

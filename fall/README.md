@@ -29,7 +29,7 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 ### JavaScript DOM Challenges
 
-- [Dark Mode](dom-dark-mode.md)
+- [Dark Mode](dom-dark-mode.md)                          https://codepen.io/Karlfunhouse/pen/zYYVyOQ
 - [Greeting App Functionality](dom-greeting-app.md)
 - Basically IdeaBox
 
